@@ -1,6 +1,6 @@
-import type { ComponentProps } from "react";
+import type { ComponentProps } from 'react'
 
-type ButtonProps = ComponentProps<"button"> & {};
+type ButtonProps = ComponentProps<'button'> & {}
 
 export function IconButton(props: ButtonProps) {
   return (
@@ -8,5 +8,5 @@ export function IconButton(props: ButtonProps) {
       className="p-1.5 bg-gray-500 text-blue rounded-md cursor-pointer transition-colors duration-300 hover:bg-blue hover:text-gray-900"
       {...props}
     />
-  );
+  )
 }
