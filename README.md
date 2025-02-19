@@ -181,7 +181,7 @@ Start the server
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/nlw-connect-react-022025?tab=MIT-1-ov-file) file for more details.
 
 ## ✒ Author
 
