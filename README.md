@@ -26,7 +26,11 @@ I developed an event project using React with Next.js, where users can register 
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+
+
+https://github.com/user-attachments/assets/0b07621c-98c6-4da8-848c-23bd99293169
+
+
 
 ## 🎨 Layout
 
